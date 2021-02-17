@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AndreasBrennicke
+- 👋 Hi, I’m Andreas!
 - 👀 I’m interested in erp systems, social networking apps and 3d visualizations.
-- 🌱 I’m currently learning vue.js
+- 🌱 I’m currently learning vue.js.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 You can find me on LinkedIn.
 
