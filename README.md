@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andreas!
-- 👀 I’m interested in erp systems, social networking apps and 3d visualizations.
+- 👀 I build 3d experiences.
 - 📫 You can find me on LinkedIn.
 
 <!---
