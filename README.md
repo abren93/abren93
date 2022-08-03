@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andreas!
-- 🔨 I build 3d experiences.
+- 🔨 I build web experiences.
 - 📫 You can find me on LinkedIn.
 
 <!---
